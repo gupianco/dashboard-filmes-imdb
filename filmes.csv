@@ -1,0 +1,247 @@
+titulo,ano,nota IMDB,numero de votos,duração(min),classificação indicativa,genero,bilheteria total(USD)
+The Shawshank Redemption,1994,9.3,3168010,142,16 anos,Drama,29330000.0
+The Godfather,1972,9.2,2212884,175,16 anos,"Crime, Drama",250930000.0
+The Dark Knight,2008,9.1,3145646,152,13 anos,"Action, Crime, Drama",1008480000.0
+The Godfather Part II,1974,9.0,1486878,202,16 anos,"Crime, Drama",48200000.0
+12 Angry Men,1957,9.0,977359,96,Não classificado,"Crime, Drama",10000.0
+The Lord of the Rings: The Return of the King,2003,9.0,2152126,201,13 anos,"Adventure, Drama, Fantasy",1148970000.0
+Schindler&apos;s List,1994,9.0,1577558,195,16 anos,"Biography, Drama, History",322160000.0
+The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2193491,178,13 anos,"Adventure, Drama, Fantasy",897000000.0
+Pulp Fiction,1994,8.8,2421067,154,16 anos,"Crime, Drama",213930000.0
+"Il buono, il brutto, il cattivo",1967,8.8,887227,178,16 anos,"Adventure, Drama, Western",25270000.0
+The Lord of the Rings: The Two Towers,2002,8.8,1945026,179,13 anos,"Adventure, Drama, Fantasy",944740000.0
+Forrest Gump,1994,8.8,2479948,142,13 anos,"Drama, Romance",678230000.0
+Fight Club,1999,8.8,2585212,139,16 anos,"Crime, Drama, Thriller",101320000.0
+Inception,2010,8.8,2796318,148,13 anos,"Action, Adventure, Sci-Fi",839790000.0
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1496595,124,10 anos,"Action, Adventure, Fantasy",550020000.0
+The Matrix,1999,8.7,2233701,136,16 anos,"Action, Sci-Fi",473330000.0
+GoodFellas,1990,8.7,1382099,145,16 anos,"Biography, Crime, Drama",47080000.0
+Interstellar,2014,8.7,2496091,169,13 anos,"Adventure, Drama, Sci-Fi",773860000.0
+One Flew Over the Cuckoo&apos;s Nest,1975,8.6,1152486,133,16 anos,Drama,109130000.0
+Se7en,1995,8.6,2006146,127,16 anos,"Crime, Drama, Mystery",329810000.0
+It&apos;s a Wonderful Life,1947,8.6,552664,130,10 anos,"Drama, Family, Fantasy",11500000.0
+The Silence of the Lambs,1991,8.6,1711212,118,16 anos,"Crime, Drama, Horror",272740000.0
+Shichinin no samurai,1956,8.6,400179,207,Não classificado,"Action, Drama",1090000.0
+Saving Private Ryan,1998,8.6,1628543,169,16 anos,"Drama, War",482350000.0
+The Green Mile,1999,8.6,1551508,189,16 anos,"Crime, Drama, Fantasy",286800000.0
+Cidade de Deus,2004,8.6,866611,130,16 anos,"Crime, Drama",30690000.0
+La vita è bella,1997,8.6,808265,116,13 anos,"Comedy, Drama, Romance",230100000.0
+Terminator 2: Judgment Day,1991,8.6,1277496,137,16 anos,"Action, Adventure, Sci-Fi",517780000.0
+Star Wars,1977,8.6,1561809,121,10 anos,"Action, Adventure, Fantasy",775400000.0
+Back to the Future,1985,8.5,1442692,116,10 anos,"Adventure, Comedy, Sci-Fi",392980000.0
+Sen to Chihiro no kamikakushi,2003,8.6,959384,124,10 anos,"Animation, Adventure, Family",360180000.0
+The Pianist,2003,8.5,1006347,150,16 anos,"Biography, Drama, Music",120100000.0
+Gladiator,2000,8.5,1837102,155,16 anos,"Action, Adventure, Drama",465520000.0
+Gisaengchung,2019,8.5,1150711,132,16 anos,"Drama, Thriller",262550000.0
+Hotaru no haka,1989,8.5,380478,88,Não classificado,"Animation, Drama, War",4700000.0
+Psycho,1960,8.5,781795,109,16 anos,"Drama, Horror, Mystery",32270000.000000004
+The Lion King,1994,8.5,1251328,88,Livre,"Animation, Adventure, Drama",979160000.0
+Seppuku,1964,8.6,89994,133,Não classificado,"Drama, Mystery",20000.0
+The Departed,2006,8.5,1545064,151,16 anos,"Crime, Drama, Thriller",292100000.0
+Whiplash,2014,8.5,1143440,106,16 anos,"Drama, Music",50430000.0
+The Prestige,2006,8.5,1576959,130,13 anos,"Drama, Mystery, Sci-Fi",109680000.0
+Kill Bill: The Whole Bloody Affair,2025,8.8,30141,253,Não classificado,"Action, Crime, Thriller",6720000.0
+American History X,1998,8.5,1267862,119,16 anos,"Crime, Drama",23880000.0
+Léon,1994,8.5,1344671,110,16 anos,"Action, Crime, Drama",20330000.0
+Spider-Man: Across the Spider-Verse,2023,8.5,513688,140,10 anos,"Animation, Action, Adventure",690820000.0
+Nuovo Cinema Paradiso,1990,8.5,315853,174,10 anos,"Drama, Romance",13500000.0
+Casablanca,1943,8.5,653074,102,10 anos,"Drama, Romance, War",4740000.0
+Intouchables,2011,8.5,1020643,112,16 anos,"Comedy, Drama",426590000.0
+The Usual Suspects,1995,8.5,1232633,106,16 anos,"Crime, Drama, Mystery",23340000.0
+Alien,1979,8.5,1058161,117,16 anos,"Horror, Sci-Fi",109510000.0
+Django Unchained,2012,8.5,1870222,165,16 anos,"Drama, Western",426080000.0
+Modern Times,1936,8.5,284271,87,Livre,"Comedy, Drama, Romance",470000.0
+Rear Window,1954,8.5,566914,112,10 anos,"Drama, Mystery, Thriller",37920000.0
+C&apos;era una volta il West,1969,8.5,382606,145,13 anos,"Drama, Western",5440000.0
+City Lights,1931,8.5,215684,87,Livre,"Comedy, Drama, Romance",60000.0
+Apocalypse Now,1979,8.4,766922,147,16 anos,"Drama, Mystery, War",105270000.0
+WALL·E,2008,8.4,1311927,98,Livre,"Animation, Adventure, Family",527400000.0
+Memento,2001,8.4,1427780,113,16 anos,"Drama, Mystery, Thriller",40060000.0
+Dune: Part Two,2024,8.4,722936,166,13 anos,"Action, Adventure, Drama",714840000.0
+Raiders of the Lost Ark,1981,8.4,1105828,115,10 anos,"Action, Adventure",389930000.0
+Avengers: Infinity War,2018,8.4,1359383,149,13 anos,"Action, Adventure, Sci-Fi",2052420000.0
+Das Leben der Anderen,2007,8.4,441636,137,16 anos,"Drama, Mystery, Thriller",77670000.0
+Spider-Man: Into the Spider-Verse,2018,8.4,780193,117,10 anos,"Animation, Action, Adventure",394880000.0
+Sunset Blvd.,1950,8.4,260009,110,Não classificado,"Drama, Film-Noir",340000.0
+Witness for the Prosecution,1958,8.4,160732,116,Não classificado,"Crime, Drama, Mystery",10000.0
+Paths of Glory,1957,8.4,237768,88,Não classificado,"Drama, War",10000.0
+The Shining,1980,8.4,1218463,146,16 anos,"Drama, Horror",50290000.0
+The Great Dictator,1941,8.4,258580,125,Livre,"Comedy, Drama, War",970000.0
+Inglourious Basterds,2009,8.4,1769293,153,16 anos,"Adventure, Drama, War",321460000.0
+12th Fail,2023,8.7,168898,147,Não classificado,"Biography, Drama",140000.0
+Aliens,1986,8.4,837039,137,16 anos,"Action, Adventure, Horror",131060000.0
+Tengoku to jigoku,1963,8.4,70730,143,Não classificado,"Crime, Drama, Mystery",60000.0
+Good Will Hunting,1998,8.4,1206463,126,16 anos,"Drama, Romance",225930000.0
+Avengers: Endgame,2019,8.4,1432148,181,13 anos,"Action, Adventure, Sci-Fi",2799440000.0
+The Dark Knight Rises,2012,8.4,1982116,164,13 anos,"Action, Crime, Drama",1085430000.0
+Coco,2017,8.4,699365,105,10 anos,"Animation, Adventure, Drama",823290000.0
+Amadeus,1984,8.4,465769,160,10 anos,"Biography, Drama, Music",52270000.0
+Toy Story,1995,8.3,1166702,81,Livre,"Animation, Adventure, Comedy",401160000.0
+Kimi no na wa.,2017,8.4,387323,106,Não classificado,"Animation, Drama, Fantasy",405320000.0
+Das Boot,1982,8.3,286903,149,Não classificado,"Drama, War",11490000.0
+Oldeuboi,2003,8.3,713159,120,16 anos,"Action, Drama, Mystery",17620000.0
+Braveheart,1995,8.3,1156620,178,16 anos,"Biography, Drama, War",213220000.0
+Mononoke-hime,1997,8.3,480469,133,13 anos,"Animation, Adventure, Fantasy",33810000.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,549702,95,10 anos,"Comedy, War",9670000.0
+3 Idiots,2009,8.4,478860,170,13 anos,"Comedy, Drama",60260000.0
+American Beauty,1999,8.3,1275771,122,16 anos,Drama,356300000.0
+Capharnaüm,2018,8.4,123170,126,16 anos,Drama,64420000.0
+Singin&apos; in the Rain,1952,8.3,281252,103,Livre,"Comedy, Musical, Romance",2110000.0
+Joker,2019,8.3,1680640,122,16 anos,"Crime, Drama, Thriller",1078960000.0
+C&apos;era una volta in America,1984,8.3,407012,229,16 anos,"Crime, Drama",5480000.0
+Idi i smotri,1985,8.3,121365,142,Não classificado,"Drama, Thriller, War",20930000.0
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,1203209,131,10 anos,"Action, Adventure, Fantasy",482470000.0
+Requiem for a Dream,2000,8.3,968756,102,18 anos,Drama,7390000.0
+Toy Story 3,2010,8.3,964317,103,Livre,"Animation, Adventure, Comedy",1067319999.9999999
+Ikiru,1956,8.3,101603,143,Não classificado,Drama,110000.0
+Jagten,2012,8.3,406436,115,16 anos,Drama,15890000.0
+Incendies,2011,8.3,247689,131,16 anos,"Drama, Mystery, War",6790000.0
+Eternal Sunshine of the Spotless Mind,2004,8.3,1176721,108,16 anos,"Drama, Romance, Sci-Fi",73310000.0
+The Apartment,1960,8.3,218092,125,Não classificado,"Comedy, Drama, Romance",18780000.0
+Lawrence of Arabia,1962,8.3,340320,227,Não classificado,"Adventure, Biography, Drama",46010000.0
+2001: A Space Odyssey,1968,8.3,778954,149,Livre,"Adventure, Sci-Fi",68010000.0
+Heat,1995,8.3,796873,170,16 anos,"Action, Crime, Drama",187440000.0
+Reservoir Dogs,1992,8.3,1165366,99,16 anos,"Crime, Thriller",2940000.0
+Scarface,1983,8.3,1009015,170,16 anos,"Crime, Drama",66440000.0
+Double Indemnity,1944,8.3,180523,107,Não classificado,"Crime, Drama, Film-Noir",20000.0
+Up,2009,8.3,1228016,96,10 anos,"Animation, Adventure, Comedy",735100000.0
+North by Northwest,1959,8.3,368598,136,Não classificado,"Adventure, Drama, Mystery",210000.0
+Taare Zameen Par,2007,8.3,230698,162,10 anos,"Drama, Family",21900000.0
+Full Metal Jacket,1987,8.2,847150,116,16 anos,"Drama, War",50880000.0
+M - Eine Stadt sucht einen Mörder,1931,8.3,182156,99,Não classificado,"Crime, Mystery, Thriller",40000.0
+Citizen Kane,1941,8.2,492218,119,10 anos,"Drama, Mystery",1710000.0
+Le fabuleux destin d&apos;Amélie Poulain,2002,8.3,836818,122,16 anos,"Comedy, Romance",175420000.0
+Vertigo,1958,8.2,457682,128,10 anos,"Mystery, Romance, Thriller",7990000.0
+Jodaeiye Nader az Simin,2011,8.3,276702,123,13 anos,Drama,22930000.0
+Die Hard,1988,8.2,1025552,132,16 anos,"Action, Thriller",143650000.0
+To Kill a Mockingbird,1963,8.2,350648,129,Não classificado,"Crime, Drama",610000.0
+Indiana Jones and the Last Crusade,1989,8.2,860418,127,13 anos,"Action, Adventure",474170000.0
+The Sting,1973,8.2,299171,129,10 anos,"Comedy, Crime, Drama",156010000.0
+A Clockwork Orange,1972,8.2,933374,136,16 anos,"Crime, Sci-Fi",27170000.0
+Metropolis,1927,8.2,200324,153,Não classificado,"Drama, Sci-Fi",1350000.0
+1917,2020,8.2,765271,119,16 anos,"Action, Drama, War",446060000.0
+Snatch,2001,8.2,972794,102,16 anos,"Comedy, Crime",83560000.0
+L.A. Confidential,1997,8.2,656577,138,16 anos,"Crime, Drama, Mystery",126220000.0
+Der Untergang,2005,8.2,398908,156,16 anos,"Biography, Drama, History",92180000.0
+The Wolf of Wall Street,2013,8.2,1772350,180,16 anos,"Biography, Comedy, Crime",407040000.0
+Dangal,2016,8.3,240747,161,Não classificado,"Action, Biography, Drama",303730000.0
+The Truman Show,1998,8.2,1360444,103,10 anos,"Comedy, Drama",264120000.0
+Ladri di biciclette,1949,8.2,191919,89,Não classificado,Drama,460000.0
+Oppenheimer,2023,8.2,1011743,180,16 anos,"Biography, Drama, History",975810000.0
+Green Book,2018,8.2,677929,130,13 anos,"Biography, Comedy, Drama",321750000.0
+Shutter Island,2010,8.2,1631737,138,16 anos,"Drama, Mystery, Thriller",294980000.0
+Judgment at Nuremberg,1961,8.3,96461,179,Não classificado,"Drama, History, War",10000.0
+Batman Begins,2005,8.2,1703662,140,13 anos,"Action, Crime, Drama",375580000.0
+Hamilton,2020,8.3,137958,160,13 anos,"Biography, Drama, History",20940000.0
+Per qualche dollaro in più,1967,8.2,298846,132,16 anos,"Drama, Western",15000000.0
+Taxi Driver,1976,8.2,1020084,114,16 anos,"Crime, Drama",28980000.0
+Jurassic Park,1993,8.2,1169814,127,13 anos,"Action, Adventure, Sci-Fi",1103110000.0
+Some Like It Hot,1959,8.2,303664,121,Não classificado,"Comedy, Music, Romance",210000.0
+There Will Be Blood,2008,8.2,703624,158,16 anos,Drama,76430000.0
+The Kid,1921,8.2,145076,68,Não classificado,"Comedy, Drama, Family",50000.0
+The Father,2021,8.2,242331,97,13 anos,"Drama, Mystery",24050000.0
+All About Eve,1950,8.2,148633,138,Não classificado,Drama,160000.0
+The Sixth Sense,1999,8.2,1138184,107,13 anos,"Drama, Mystery, Thriller",672810000.0
+Ran,1985,8.2,150999,160,16 anos,"Action, Drama, War",4420000.0
+Casino,1995,8.2,615465,178,16 anos,"Crime, Drama",116110000.0
+No Country for Old Men,2007,8.2,1179896,122,16 anos,"Crime, Drama, Thriller",171640000.0
+The Thing,1982,8.2,522863,109,16 anos,"Horror, Mystery, Sci-Fi",20870000.0
+Top Gun: Maverick,2022,8.2,849682,130,13 anos,"Action, Drama",1495700000.0
+Prisoners,2013,8.2,925536,153,16 anos,"Crime, Drama, Mystery",122130000.0
+Kill Bill: Vol. 1,2003,8.2,1299105,111,16 anos,"Action, Crime, Thriller",180910000.0
+El laberinto del fauno,2007,8.2,744307,118,16 anos,"Drama, Fantasy, War",83860000.0
+Unforgiven,1992,8.2,466753,130,16 anos,"Drama, Western",159170000.0
+A Beautiful Mind,2002,8.2,1049366,135,13 anos,"Biography, Drama, Mystery",316790000.0
+The Treasure of the Sierra Madre,1948,8.2,140941,126,Não classificado,"Adventure, Drama, Western",5010000.0
+Hauru no ugoku shiro,2005,8.2,508081,119,10 anos,"Animation, Adventure, Family",243390000.0
+Finding Nemo,2003,8.2,1200849,100,Livre,"Animation, Adventure, Comedy",941640000.0
+Yôjinbô,1961,8.2,142437,110,Não classificado,"Action, Drama, Thriller",70000.0
+The Great Escape,1963,8.2,276420,172,Não classificado,"Adventure, Drama, Thriller",230000.0
+The Elephant Man,1980,8.2,281198,124,10 anos,"Biography, Drama",26080000.0
+Monty Python and the Holy Grail,1975,8.2,601468,91,10 anos,"Adventure, Comedy, Fantasy",2940000.0
+Dial M for Murder,1954,8.1,203905,105,10 anos,"Crime, Drama, Mystery",50000.0
+La meglio gioventù,2003,8.4,27811,374,16 anos,"Drama, Romance",2800000.0
+Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,8.4,66370,155,16 anos,"Animation, Action, Adventure",740850000.0
+El secreto de sus ojos,2010,8.2,240984,129,16 anos,"Drama, Mystery, Romance",35080000.0
+Gone with the Wind,1940,8.2,355221,238,Livre,"Drama, Romance, War",402380000.0
+Chinatown,1974,8.1,375550,130,16 anos,"Drama, Mystery, Thriller",29230000.0
+"Lock, Stock and Two Smoking Barrels",1998,8.1,648246,107,16 anos,"Comedy, Crime",3750000.0
+V for Vendetta,2006,8.1,1241984,132,16 anos,"Action, Drama, Sci-Fi",134690000.0
+Catch Me If You Can,2002,8.1,1225671,141,13 anos,"Biography, Crime, Drama",352110000.0
+Inside Out,2015,8.1,907637,95,10 anos,"Animation, Adventure, Comedy",859080000.0
+Rashômon,1951,8.1,195645,88,Não classificado,"Crime, Drama, Mystery",140000.0
+"Three Billboards Outside Ebbing, Missouri",2017,8.1,603567,115,16 anos,"Comedy, Crime, Drama",162730000.0
+Trainspotting,1996,8.1,766474,93,16 anos,"Crime, Drama",16990000.0
+The Bridge on the River Kwai,1957,8.1,247890,161,10 anos,"Adventure, Drama, War",27200000.0
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,1039009,130,13 anos,"Adventure, Family, Fantasy",1342940000.0
+Dead Poets Society,1989,8.1,645268,128,10 anos,"Comedy, Drama",235860000.0
+The Wild Robot,2024,8.2,217407,102,10 anos,"Animation, Adventure, Family",334540000.0
+Warrior,2011,8.1,526794,140,13 anos,"Action, Drama, Sport",23310000.0
+Fargo,1996,8.1,783492,98,16 anos,"Crime, Drama, Thriller",60610000.0
+Barry Lyndon,1975,8.1,203027,185,10 anos,"Adventure, Drama, War",580000.0
+Raging Bull,1980,8.1,408711,129,16 anos,"Biography, Drama, Sport",23410000.0
+Ben-Hur,1959,8.1,270381,212,Livre,"Adventure, Drama",74440000.0
+Million Dollar Baby,2005,8.1,763230,132,13 anos,"Drama, Sport",216760000.0
+Mad Max: Fury Road,2015,8.1,1200736,120,16 anos,"Action, Adventure, Sci-Fi",380460000.0
+Bacheha-ye aseman,1999,8.2,89440,89,10 anos,"Drama, Family, Sport",930000.0
+Hacksaw Ridge,2016,8.1,674696,139,16 anos,"Biography, Drama, History",180560000.0
+Tonari no Totoro,1990,8.1,428023,86,Livre,"Animation, Adventure, Comedy",31040000.0
+Gran Torino,2009,8.1,858707,116,16 anos,Drama,269960000.0
+12 Years a Slave,2013,8.1,783533,134,16 anos,"Biography, Drama, History",187730000.0
+Ratatouille,2007,8.1,935027,111,Livre,"Animation, Adventure, Comedy",623740000.0
+The Grand Budapest Hotel,2014,8.1,963687,99,16 anos,"Comedy, Drama",174570000.0
+Before Sunrise,1995,8.1,374563,101,16 anos,"Comedy, Drama, Romance",6580000.0
+Salinui chueok,2003,8.1,263135,131,Não classificado,"Crime, Drama, Mystery",1210000.0
+Blade Runner,1982,8.1,877911,117,16 anos,"Action, Drama, Sci-Fi",41800000.0
+How to Train Your Dragon,2010,8.1,887580,98,10 anos,"Animation, Action, Adventure",494880000.0
+Spider-Man: No Way Home,2021,8.1,1007947,148,13 anos,"Action, Adventure, Fantasy",1921430000.0
+Gone Girl,2014,8.1,1161682,149,16 anos,"Drama, Mystery, Thriller",370890000.0
+"Monsters, Inc.",2001,8.1,1068117,92,Livre,"Animation, Adventure, Comedy",579770000.0
+Jaws,1975,8.1,733019,124,10 anos,"Adventure, Horror, Thriller",490740000.0
+In the Name of the Father,1994,8.1,201918,133,16 anos,"Biography, Crime, Drama",65800000.0
+Ford v Ferrari,2019,8.1,565191,152,13 anos,"Action, Biography, Drama",226300000.0
+Relatos salvajes,2014,8.1,236910,122,16 anos,"Comedy, Drama, Thriller",31480000.0
+The Gold Rush,1925,8.1,127706,95,Não classificado,"Adventure, Comedy, Drama",80000.0
+Sherlock Jr.,1924,8.1,65275,45,Não classificado,"Action, Comedy, Romance",0.0
+Mary and Max.,2009,8.1,201032,92,Não classificado,"Animation, Comedy, Drama",1740000.0
+The Deer Hunter,1979,8.1,385457,183,16 anos,"Drama, War",49080000.0
+Le salaire de la peur,1955,8.1,73155,156,Não classificado,"Adventure, Drama, Thriller",20000.0
+The General,1927,8.1,105801,78,Não classificado,"Action, Adventure, Comedy",0.0
+Logan,2017,8.1,920531,137,16 anos,"Action, Drama, Sci-Fi",619180000.0
+Rocky,1976,8.1,684714,120,10 anos,"Drama, Sport",117250000.0
+Mr. Smith Goes to Washington,1939,8.1,129062,129,Não classificado,"Comedy, Drama",150000.0
+Tôkyô monogatari,1972,8.1,77208,137,Não classificado,Drama,90000.0
+On the Waterfront,1954,8.1,177149,108,Não classificado,"Crime, Drama, Thriller",0.0
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,1316491,143,13 anos,"Action, Adventure, Fantasy",654260000.0
+Smultronstället,1959,8.1,124052,92,Não classificado,"Drama, Romance",100000.0
+Spotlight,2015,8.1,532914,129,16 anos,"Biography, Crime, Drama",98690000.0
+Koe no katachi,2016,8.2,138542,130,Não classificado,"Animation, Drama",30820000.0
+La haine,1996,8.1,224218,98,Não classificado,"Crime, Drama",760000.0
+The Terminator,1984,8.1,998811,107,16 anos,"Action, Adventure, Sci-Fi",78370000.0
+Maharaja,2024,8.3,80431,141,Não classificado,"Action, Crime, Drama",980000.0
+The Third Man,1950,8.1,194653,104,Não classificado,"Drama, Film-Noir, Mystery",1430000.0
+The Sound of Music,1965,8.1,289886,174,Livre,"Biography, Drama, Family",161510000.0
+The Big Lebowski,1998,8.1,913539,117,16 anos,"Comedy, Crime",48260000.0
+The Best Years of Our Lives,1947,8.1,77141,170,Não classificado,"Drama, Romance, War",23670000.0
+Det sjunde inseglet,1958,8.1,215189,96,Não classificado,"Drama, Fantasy",340000.0
+Before Sunset,2004,8.1,313141,80,16 anos,"Drama, Romance",16510000.000000002
+Room,2016,8.1,478524,118,16 anos,"Drama, Thriller",35400000.0
+Hotel Rwanda,2005,8.1,390915,121,13 anos,"Biography, Drama, History",33880000.0
+Gekijô-ban Chensô Man Reze-hen,2025,8.3,49117,100,16 anos,"Animation, Action, Adventure",163060000.0
+The Incredibles,2004,8.0,894329,115,10 anos,"Animation, Action, Adventure",631690000.0
+Platoon,1986,8.1,470820,120,16 anos,"Drama, War",138550000.0
+Hachi: A Dog&apos;s Tale,2010,8.1,340864,93,Livre,"Biography, Drama, Family",46750000.0
+The Exorcist,1973,8.1,496255,122,16 anos,Horror,430870000.0
+Rush,2013,8.1,556044,123,16 anos,"Biography, Drama, Sport",93330000.0
+The Iron Giant,1999,8.1,258235,86,10 anos,"Animation, Action, Adventure",23340000.0
+The Wizard of Oz,1939,8.1,465566,102,Livre,"Adventure, Family, Fantasy",25640000.0
+Stand by Me,1986,8.1,484400,89,16 anos,"Adventure, Comedy, Drama",53530000.0
+La passion de Jeanne d&apos;Arc,1928,8.1,67817,114,Não classificado,"Biography, Drama, History",20000.0
+Babam ve Oglum,2005,8.2,100337,112,Não classificado,"Drama, Family",18610000.0
+La battaglia di Algeri,1967,8.1,75159,121,Não classificado,"Drama, War",960000.0
+Ah-ga-ssi,2017,8.1,201118,145,Não classificado,"Drama, Romance, Thriller",37960000.0
+Network,1976,8.1,185436,121,16 anos,Drama,23700000.0
+The Grapes of Wrath,1940,8.1,108041,129,Não classificado,Drama,10000.0
+To Be or Not to Be,1942,8.1,49586,99,Não classificado,"Comedy, Romance, War",0.0
+Gangs of Wasseypur,2012,8.2,113517,321,Não classificado,"Action, Comedy, Crime",4380000.0
+Höstsonaten,1978,8.1,41972,99,10 anos,"Drama, Music",40000.0
